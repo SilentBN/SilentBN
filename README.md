@@ -2,9 +2,25 @@
 
 **`Digital Craftsman (Developer/Tech Enthusiast)`**
 
-I'm a tech enthusiast who used to work with private equity firms, helping them buy various tech products to enhance their portfolio.
+I'm an indie full-stack developer with a passion for crafting digital experiences. I build everything from the ground up, from concept and design to tackling real-world problems with lines of code. Whether it's coding games or other interactive projects, I enjoy the entire creation process, from the initial spark of an idea to the final touches.
 
-After migrating to the U.S from Pakistan when I was 18 I went to the University of Michigan where I graduated in three years with a neuroscience degree before getting a masters in business. My journey has been exciting and full of adventures so far, and i'm excited to keep on learning and growing in a career in the tech industry.
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />>
+<br />
+
+#
 
 <!--
 **SilentBN/SilentBN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
