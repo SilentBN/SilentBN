@@ -1,4 +1,10 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=FFFFFF&width=1000&lines=Hi+There;I'm+Bao!+Fullstack+Dev!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=FFFFFF&background=FFFFFF00&random=false&width=850&separator=%3C&lines=Hi+There!+%F0%9F%91%8B;+I'm+Bao+Nguyen.+A+Fullstack+Developer!+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+**`Digital Craftsman (Developer/Tech Enthusiast)`**
+
+I'm a tech enthusiast who used to work with private equity firms, helping them buy various tech products to enhance their portfolio.
+
+After migrating to the U.S from Pakistan when I was 18 I went to the University of Michigan where I graduated in three years with a neuroscience degree before getting a masters in business. My journey has been exciting and full of adventures so far, and i'm excited to keep on learning and growing in a career in the tech industry.
 
 <!--
 **SilentBN/SilentBN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
