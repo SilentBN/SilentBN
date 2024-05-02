@@ -11,50 +11,50 @@ I'm an indie full-stack developer with a passion for crafting digital experience
 <a href="https://www.w3.org/html/" target="_blank">
   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://www.w3schools.com/css/" target="_blank">
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://react.dev/" target="_blank">
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://nodejs.org/en" target="_blank">
   <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://github.com/" target="_blank">
   <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://git-scm.com/" target="_blank">
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://www.cypress.io/" target="_blank">
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://expressjs.com/" target="_blank">
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://redux.js.org/" target="_blank">
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
-  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+<a href="https://www.postman.com/" target="_blank">
+  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://posit.co/download/rstudio-desktop/" target="_blank">
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://getbootstrap.com/" target="_blank">
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://lesscss.org/" target="_blank">
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://nextjs.org/" target="_blank">
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
-  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<a href="https://axios-http.com/" target="_blank">
+  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
 </a>
 <br />
 
