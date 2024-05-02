@@ -60,6 +60,10 @@ I'm an indie full-stack developer with a passion for crafting digital experience
 
 #
 
+### 📊 Stats
+
+![SilentBN's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilentBN&show_icons=true&theme=nord)
+
 <!--
 **SilentBN/SilentBN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
