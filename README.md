@@ -67,7 +67,7 @@ I'm an indie full-stack developer with a passion for crafting digital experience
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SilentBN/SilentBN/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SilentBN/SilentBN/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <!--
