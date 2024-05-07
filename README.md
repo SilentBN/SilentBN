@@ -62,10 +62,13 @@ I'm an indie full-stack developer with a passion for crafting digital experience
 
 ### 📊 Stats
 
-![SilentBN's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilentBN&show_icons=true&theme=nord)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilentBN)](https://github.com/SilentBN/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SilentBN&show_icons=true&theme=radical" />
+ </p>
 
-#
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentBN&hide=html,css,less,shell&theme=radical" />
+</p>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
