@@ -4,6 +4,18 @@
 
 I'm an indie full-stack developer with a passion for crafting digital experiences. I build everything from the ground up, from concept and design to tackling real-world problems with lines of code. Whether it's coding games or other interactive projects, I enjoy the entire creation process, from the initial spark of an idea to the final touches.
 
+<div align="center"> 
+  <a href="mailto:silentbn@skiff.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/nguyendbao/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
 ---
 
 ### 🧰 Languages and Tools
