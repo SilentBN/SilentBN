@@ -67,7 +67,7 @@ I'm an indie full-stack developer with a passion for crafting digital experience
  </p>
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentBN&hide=html,css,less,shell&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentBN&theme=radical" />
 </p>
 
 <div align="center">
