@@ -65,6 +65,8 @@ I'm an indie full-stack developer with a passion for crafting digital experience
 ![SilentBN's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilentBN&show_icons=true&theme=nord)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilentBN)](https://github.com/SilentBN/github-readme-stats)
 
+#
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SilentBN/SilentBN/output/github-contribution-grid-snake-dark.svg" />
