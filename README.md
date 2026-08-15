@@ -5,13 +5,13 @@
 I'm an indie full-stack developer with a passion for crafting digital experiences. I build everything from the ground up, from concept and design to tackling real-world problems with lines of code. Whether it's coding games or other interactive projects, I enjoy the entire creation process, from the initial spark of an idea to the final touches.
 
 <div align="left"> 
-  <a href="mailto:silentbn@skiff.com">
+  <a href="mailto:baod.nguyen25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/nguyendbao/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://baodnguyen.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -75,11 +75,11 @@ I'm an indie full-stack developer with a passion for crafting digital experience
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilentBN&show_icons=true&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilentBN&theme=radical" />
  </p>
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentBN&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SilentBN&theme=radical" />
 </p>
 
 <div align="center">
